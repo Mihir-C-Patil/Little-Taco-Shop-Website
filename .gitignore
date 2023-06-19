@@ -361,11 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-.gitignore
-
-.gitattributes
-
-Folder.DotSettings
-
-Web.config
